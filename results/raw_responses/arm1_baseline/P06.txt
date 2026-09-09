@@ -1,0 +1,25 @@
+### **Primary Clinical Diagnosis**
+**Mild Cognitive Impairment (MCI) — Amnestic Type**  
+*(Differential / Early Working Diagnosis: Early-Stage Alzheimer's Disease / Unspecified Dementia)*
+
+---
+
+### **Primary ICD-10-CM Code**
+* **`G31.84`** — *Mild cognitive impairment, so stated*
+
+---
+
+### **Clinical Rationale & Coding Breakdown**
+
+1. **Symptom Presentation**:
+   * **Episodic memory loss**: Becoming increasingly forgetful and misplacing everyday items (keys).
+   * **Temporal disorientation**: Confusion regarding the day of the week in a 71-year-old patient.
+   * At this initial stage, cognitive decline is noted beyond normal age-related changes, but without documented evidence of severe disruption to independent basic activities of daily living (ADLs), this clinically fits **amnestic MCI** (frequently prodromal Alzheimer’s disease).
+
+2. **Differential / Context-Dependent Coding**:
+   * **If formal dementia / Alzheimer's disease is confirmed following full evaluation (e.g., MoCA/MMSE, neuroimaging, lab work):**
+     * **`G30.9`** — *Alzheimer's disease, unspecified* (or **`G30.1`** for *Alzheimer's disease with late onset*), with secondary code **`F02.80`** (*Dementia in other diseases classified elsewhere, unspecified severity, without behavioral disturbance*).
+     * **`F03.90`** — *Unspecified dementia, unspecified severity, without behavioral disturbance*.
+   * **If coded strictly at the sign/symptom level (provisional/pre-diagnostic workup per ICD-10 guidelines):**
+     * **`R41.3`** — *Other amnesia (memory loss, unspecified)*
+     * **`R41.0`** — *Disorientation, unspecified*

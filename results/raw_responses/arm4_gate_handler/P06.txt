@@ -1,0 +1,31 @@
+### 1. GAP LIST
+
+The following clinical decision points and required diagnostic findings are missing from the prompt:
+
+* **Standardized Objective Cognitive Testing:** Formal cognitive screening scores (e.g., Montreal Cognitive Assessment [MoCA] or Mini-Mental State Examination [MMSE]) to objectively confirm cognitive impairment across domains versus age-related cognitive decline.
+* **Functional Assessment (ADLs/IADLs):** Documentation of the patient's independence in basic Activities of Daily Living (e.g., bathing, dressing) and Instrumental Activities of Daily Living (e.g., managing finances, medications, driving) to differentiate between Mild Cognitive Impairment (MCI) and Dementia.
+* **Laboratory Testing for Reversible Etiologies:**
+  * Serum Vitamin B12 and folate levels
+  * Thyroid-Stimulating Hormone (TSH)
+  * Comprehensive Metabolic Panel (electrolytes, renal function, liver function tests, glucose)
+  * Complete Blood Count (CBC)
+* **Structural Neuroimaging:** Brain MRI (without contrast) or non-contrast head CT to rule out structural/reversible secondary causes (e.g., normal pressure hydrocephalus, chronic subdural hematoma, intracranial neoplasm, significant cerebrovascular disease) and evaluate patterns of neurodegeneration (e.g., medial temporal/hippocampal atrophy).
+* **Physical and Neurological Examination:** Vital signs, focal neurological deficits, gait evaluation, and presence of extrapyramidal/parkinsonian signs.
+* **Psychiatric Screening:** Evaluation for affective disorders (e.g., Geriatric Depression Scale [GDS] or PHQ-9) to rule out depressive pseudodementia.
+* **Medication/Substance History:** Detailed review to identify anticholinergic burden, sedatives, benzodiazepines, or substance use contributing to cognitive symptoms.
+
+---
+
+### 2. GATE
+
+* **Material Impact:** **YES.** Without objective cognitive scores, functional assessment, lab evaluations, and neuroimaging, assigning a definitive diagnosis is clinically unsafe and diagnostically invalid, as treatable secondary causes (e.g., metabolic derangements, endocrine disorders, structural lesions) and major differential categories (normal aging vs. MCI vs. dementia) cannot be identified or excluded.
+
+**GATE=ASK**
+
+A definitive clinical diagnosis cannot be assigned without objective diagnostic evaluation. The following diagnostic tests and assessments are required:
+
+1. **Objective Cognitive Evaluation:** MoCA or MMSE (and formal neuropsychological testing if borderline).
+2. **Functional Status Evaluation:** Formal informant-corroborated assessment of IADLs and ADLs.
+3. **Laboratory Workup:** Serum TSH, Vitamin B12, CMP, and CBC.
+4. **Structural Brain Imaging:** Brain MRI without contrast (preferred) or head CT.
+5. **Mood Assessment:** Geriatric Depression Scale (GDS-15) or PHQ-9.

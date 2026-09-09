@@ -1,0 +1,35 @@
+### 1. GAP LIST
+
+The following clinical decision points and objective findings are missing from the presentation:
+
+* **Vital Signs:** Temperature, blood pressure, and heart rate (critical to assess for systemic signs of infection, inflammation, or hemodynamic instability).
+* **Physical Examination Findings:** Thorough abdominal examination (evaluating for localized tenderness, guarding, rebound, distension, organomegaly, or palpable masses) and pelvic examination.
+* **Evaluation of "Red Flag" / Alarm Features:** Assessment for involuntary weight loss, rectal bleeding (hematochezia/melena), nocturnal awakening from pain or diarrhea, family history of colorectal cancer, celiac disease, or inflammatory bowel disease (IBD).
+* **Laboratory Tests:**
+  * **Complete Blood Count (CBC):** To screen for anemia or leukocytosis.
+  * **Inflammatory Markers:** Serum C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), and fecal calprotectin to differentiate functional disorders from organic inflammation (e.g., IBD).
+  * **Celiac Serology:** Tissue transglutaminase IgA (tTG-IgA) and total serum IgA.
+  * **Comprehensive Metabolic Panel (CMP):** Electrolytes, renal, and hepatic function panels.
+  * **Stool Testing:** Stool cultures, ova and parasites (O&P), and *Clostridioides difficile* testing if infectious enteritis is suspected.
+* **Guideline Criteria Fulfillment:** Symptom duration is reported as only "a few weeks." Standard diagnostic criteria for chronic functional bowel disorders (e.g., Rome IV criteria for Irritable Bowel Syndrome) require symptom onset at least 6 months prior, with active recurrent abdominal pain for at least 3 months.
+* **Imaging / Endoscopy:** Abdominal imaging (e.g., ultrasound or CT) or colonoscopy if alarm symptoms, abnormal laboratory findings, or persistent unexplained symptoms are identified.
+
+---
+
+### 2. GATE
+
+**Decision:** **GATE=ASK**
+
+**Rationale:**  
+The missing information materially impacts clinical safety and diagnostic validity. The duration ("a few weeks") is too acute to meet established diagnostic criteria for chronic functional disorders such as IBS, while organic etiologies (including infectious colitis, early inflammatory bowel disease, celiac disease, and gynecologic/surgical pathology) have not been evaluated or excluded. Assigning a definitive diagnosis without objective testing risks missing underlying organic pathology and compromising patient safety.
+
+A definitive diagnosis cannot be assigned without objective diagnostic tests. 
+
+**Required Diagnostic Workup:**
+1. **Initial Laboratory Evaluation:**
+   * Complete Blood Count (CBC)
+   * Comprehensive Metabolic Panel (CMP)
+   * Inflammatory markers: Serum CRP/ESR and fecal calprotectin
+   * Celiac disease screening: Total serum IgA and anti-tTG IgA
+2. **Infectious Stool Studies:** Stool culture, ova and parasites (O&P), and *C. difficile* PCR/toxin assay (if diarrhea or acute onset predominates).
+3. **Targeted Imaging / Endoscopy (as clinically indicated):** Pelvic/abdominal ultrasound or colonoscopy if alarm features or abnormal laboratory markers are detected.

@@ -1,0 +1,27 @@
+### Step-by-Step Plan
+
+1. **Analyze Presenting Symptoms & Demographics**: Review the patient's age, sex, symptom triad (palpitations, diaphoresis, dyspnea), and the episodic/paroxysmal nature of the complaints.
+2. **Evaluate Diagnostic Criteria**: Compare the symptom cluster against standard diagnostic frameworks (DSM-5-TR / ICD-10) for paroxysmal autonomic and somatic anxiety syndromes.
+3. **Consider Differential Diagnoses & Exclusions**: Identify organic medical etiologies requiring rule-out (e.g., paroxysmal supraventricular tachycardia, hyperthyroidism, pheochromocytoma, asthma) versus primary psychiatric/anxiety conditions.
+4. **Formulate Primary Clinical Diagnosis**: Synthesize findings into the most probable primary clinical diagnosis.
+5. **Assign Primary ICD-10 Code**: Identify the exact ICD-10-CM code corresponding to the determined diagnosis.
+
+---
+
+### Clinical Classification
+
+* **Primary Clinical Diagnosis**: **Panic Disorder** (Episodic Paroxysmal Anxiety / Recurrent Panic Attacks)
+* **Primary ICD-10 Code**: **`F41.0`** (*Panic disorder [episodic paroxysmal anxiety]*)
+
+---
+
+### Diagnostic Rationale & Key Considerations
+
+* **Symptom Profile**: The presentation features abrupt surges of intense discomfort with classic autonomic arousal:
+  * **Palpitations / Tachycardia**: *"heart starts racing"*
+  * **Diaphoresis**: *"hands get clammy"*
+  * **Dyspnea / Sensation of Smothering**: *"feel like I can't catch my breath"*
+  * **Pattern**: Discrete, paroxysmal ("sudden") episodes typical of panic attacks.
+* **Workup / Medical Exclusions Needed**:
+  * An electrocardiogram (ECG) / Holter monitor to exclude cardiac arrhythmias (e.g., PSVT).
+  * Laboratory evaluation (TSH, free T4, electrolytes, CBC, urine toxicology) to rule out hyperthyroidism, substance/caffeine-induced anxiety, or metabolic derangements.

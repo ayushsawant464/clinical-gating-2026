@@ -1,0 +1,35 @@
+### **Primary Clinical Diagnosis**
+**Type 2 Diabetes Mellitus (T2DM)** *(Suspected / Presumptive)*
+
+* **Primary ICD-10 Code:** **`E11.9`** (*Type 2 diabetes mellitus without complications*)  
+  *(Category: **`E11`** – Type 2 diabetes mellitus)*
+
+---
+
+### **Clinical Rationale**
+The patient’s symptom triad is a classic initial presentation for new-onset Type 2 Diabetes Mellitus in a middle-aged adult:
+1. **Polydipsia (Excessive Thirst):** High circulating blood glucose exceeds the renal threshold, resulting in osmotic diuresis (polyuria) and compensatory, persistent thirst.
+2. **Persistent Fatigue (1 month duration):** Impaired cellular glucose uptake due to insulin resistance diminishes cellular energy production.
+3. **Afternoon Headaches:** Commonly caused by postprandial glycemic fluctuations (hyperglycemia or reactive hypoglycemia) and mild osmotic dehydration over the course of the day.
+
+---
+
+### **Coding Notes & Symptom-Based Alternative**
+Under standard outpatient **ICD-10-CM coding guidelines** (Section IV.H), if diagnostic laboratory testing has not yet been documented to formally confirm diabetes, the primary presenting signs/symptoms may be coded until confirmation is established:
+
+| Condition / Symptom | ICD-10 Code | Description |
+| :--- | :--- | :--- |
+| **Primary Suspected Diagnosis** | **`E11.9`** | **Type 2 diabetes mellitus without complications** |
+| Symptom: Increased Thirst | **`R63.1`** | Polydipsia |
+| Symptom: Prolonged Fatigue | **`R53.83`** | Other fatigue |
+| Symptom: Afternoon Headaches | **`R51.9`** | Headache, unspecified |
+
+---
+
+### **Recommended Next Steps & Confirmatory Workup**
+* **Laboratory Testing:**
+  * Fasting Plasma Glucose (FPG) and/or 2-hour Oral Glucose Tolerance Test (OGTT)
+  * Glycated Hemoglobin ($\text{HbA}_{1c}$)
+  * Urinalysis (evaluating for glucosuria, proteinuria, or ketonuria)
+  * Basic Metabolic Panel (BMP) to assess renal function and electrolytes
+* **Key Differentials to Exclude:** Impaired fasting glucose / pre-diabetes (`R73.03`), primary hypothyroidism (`E03.9`), chronic dehydration (`E86.0`), and diabetes insipidus (`E23.2`).

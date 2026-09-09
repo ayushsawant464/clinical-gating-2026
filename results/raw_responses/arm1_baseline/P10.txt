@@ -1,0 +1,23 @@
+### **Primary Clinical Diagnosis**
+**Obstructive Sleep Apnea (OSA)** *(also referred to as Obstructive Sleep Apnea Syndrome - OSAS)*
+
+---
+
+### **Primary ICD-10 Code**
+* **ICD-10-CM:** **`G47.33`** — *Obstructive sleep apnea (adult) (pediatric)*
+
+*(Alternative broad code if unconfirmed by polysomnography: `G47.30` – Sleep apnea, unspecified)*
+
+---
+
+### **Clinical Rationale**
+* **Witnessed Apneas:** Pauses in breathing observed by a sleep partner are a cardinal indicator of sleep-disordered breathing.
+* **Nocturnal Symptoms:** Loud, chronic snoring indicates upper airway narrowing/vibratory flow limitation during sleep.
+* **Daytime Consequences:** Trouble concentrating at work and physical signs of chronic sleep disruption (periorbital hyperpigmentation/dark circles) reflect fragmented sleep architecture and nocturnal hypoxia.
+* **Demographics:** Middle-aged male presentation fits classic epidemiological risk factors.
+
+---
+
+### **Recommended Diagnostic Workup**
+* **Objective Testing:** Diagnostic overnight polysomnography (PSG) or Home Sleep Apnea Testing (HSAT) to calculate the Apnea-Hypopnea Index (AHI).
+* **Screening Assessment:** Administration of standardized screening tools such as the Epworth Sleepiness Scale (ESS) and STOP-Bang questionnaire.

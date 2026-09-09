@@ -1,0 +1,22 @@
+### Plan of Approach
+
+1. **Review Patient Demographics and Clinical Presentation**: Analyze the patient's age (38), sex (female), and presenting symptoms (postprandial abdominal pain, bloating, and unpredictable bowel habits).
+2. **Apply Diagnostic Frameworks**: Compare symptoms to established diagnostic frameworks (such as the Rome IV criteria for functional gastrointestinal disorders).
+3. **Screen for Differential Diagnoses and Red Flags**: Consider alternative causes (e.g., small intestinal bacterial overgrowth [SIBO], celiac disease, inflammatory bowel disease, food intolerances) while checking for alarm symptoms (e.g., gastrointestinal bleeding, unintended weight loss, nocturnal symptoms, older age of onset).
+4. **Formulate Primary Clinical Diagnosis**: Identify the condition that best matches the core cluster of postprandial abdominal pain and altered bowel habits.
+5. **Assign Primary ICD-10 Code**: Identify the specific alphanumeric ICD-10-CM code matching the primary diagnosis.
+
+---
+
+### Classification
+
+* **Primary Clinical Diagnosis**: **Irritable Bowel Syndrome (IBS)** (specifically presenting with mixed/alternating bowel pattern, **IBS-M**, or unspecified **IBS-U**)
+* **Primary ICD-10 Code**: 
+  * **K58.2** – *Mixed irritable bowel syndrome* (IBS-M)  
+  *(Alternative if the stool pattern is indeterminate: **K58.9** – *Irritable bowel syndrome, unspecified*)*
+
+---
+
+#### Clinical Context
+* **Symptom Alignment**: Recurrent abdominal pain and bloating temporally linked to eating and accompanied by unpredictable/alternating bowel habits are hallmark features of Irritable Bowel Syndrome under Rome IV guidelines.
+* **Next Clinical Steps**: While the presentation strongly points to IBS, routine evaluation typically includes screening for "red flag" alarm features, basic laboratory work (CBC, CRP/fecal calprotectin, celiac serology), and a structured dietary assessment (e.g., trial of a low-FODMAP diet).

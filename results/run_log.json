@@ -1,0 +1,421 @@
+{
+  "run_started_utc": "2026-09-08T20:26:26.499487+00:00",
+  "run_ended_utc": "2026-09-08T20:45:11.695170+00:00",
+  "total_wallclock_seconds": 1125.195683,
+  "cli_command": [
+    "agy",
+    "-p"
+  ],
+  "n_success": 40,
+  "n_failed": 0,
+  "results": {
+    "arm1_baseline": {
+      "P01": {
+        "patient_id": "P01",
+        "age": "54",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:26:26.500187+00:00",
+        "duration_seconds": 30.68,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2119
+      },
+      "P02": {
+        "patient_id": "P02",
+        "age": "62",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:26:58.176766+00:00",
+        "duration_seconds": 16.99,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1312
+      },
+      "P03": {
+        "patient_id": "P03",
+        "age": "29",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:27:16.166477+00:00",
+        "duration_seconds": 42.15,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2343
+      },
+      "P04": {
+        "patient_id": "P04",
+        "age": "45",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:27:59.313418+00:00",
+        "duration_seconds": 61.0,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2801
+      },
+      "P05": {
+        "patient_id": "P05",
+        "age": "38",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:29:01.311614+00:00",
+        "duration_seconds": 90.25,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2053
+      },
+      "P06": {
+        "patient_id": "P06",
+        "age": "71",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:30:32.563332+00:00",
+        "duration_seconds": 23.94,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1608
+      },
+      "P07": {
+        "patient_id": "P07",
+        "age": "50",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:30:57.499251+00:00",
+        "duration_seconds": 38.63,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2927
+      },
+      "P08": {
+        "patient_id": "P08",
+        "age": "33",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:31:37.129359+00:00",
+        "duration_seconds": 17.52,
+        "success": true,
+        "error": null,
+        "output_length_chars": 941
+      },
+      "P09": {
+        "patient_id": "P09",
+        "age": "67",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:31:55.645488+00:00",
+        "duration_seconds": 19.02,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1765
+      },
+      "P10": {
+        "patient_id": "P10",
+        "age": "41",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:32:15.661840+00:00",
+        "duration_seconds": 14.3,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1268
+      }
+    },
+    "arm2_safety_nudge": {
+      "P01": {
+        "patient_id": "P01",
+        "age": "54",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:32:30.961331+00:00",
+        "duration_seconds": 14.76,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1490
+      },
+      "P02": {
+        "patient_id": "P02",
+        "age": "62",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:32:46.721825+00:00",
+        "duration_seconds": 32.35,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2964
+      },
+      "P03": {
+        "patient_id": "P03",
+        "age": "29",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:33:20.072607+00:00",
+        "duration_seconds": 53.18,
+        "success": true,
+        "error": null,
+        "output_length_chars": 4507
+      },
+      "P04": {
+        "patient_id": "P04",
+        "age": "45",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:34:14.257890+00:00",
+        "duration_seconds": 41.33,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2502
+      },
+      "P05": {
+        "patient_id": "P05",
+        "age": "38",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:34:56.589818+00:00",
+        "duration_seconds": 19.08,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1789
+      },
+      "P06": {
+        "patient_id": "P06",
+        "age": "71",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:35:16.668549+00:00",
+        "duration_seconds": 17.99,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1698
+      },
+      "P07": {
+        "patient_id": "P07",
+        "age": "50",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:35:35.659831+00:00",
+        "duration_seconds": 67.77,
+        "success": true,
+        "error": null,
+        "output_length_chars": 5818
+      },
+      "P08": {
+        "patient_id": "P08",
+        "age": "33",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:36:44.427915+00:00",
+        "duration_seconds": 19.88,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1798
+      },
+      "P09": {
+        "patient_id": "P09",
+        "age": "67",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:37:05.309148+00:00",
+        "duration_seconds": 15.49,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1407
+      },
+      "P10": {
+        "patient_id": "P10",
+        "age": "41",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:37:21.802903+00:00",
+        "duration_seconds": 14.78,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1028
+      }
+    },
+    "arm3_cot_plan": {
+      "P01": {
+        "patient_id": "P01",
+        "age": "54",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:37:37.623519+00:00",
+        "duration_seconds": 14.02,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1187
+      },
+      "P02": {
+        "patient_id": "P02",
+        "age": "62",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:37:52.642413+00:00",
+        "duration_seconds": 28.15,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1726
+      },
+      "P03": {
+        "patient_id": "P03",
+        "age": "29",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:38:21.797224+00:00",
+        "duration_seconds": 26.68,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2805
+      },
+      "P04": {
+        "patient_id": "P04",
+        "age": "45",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:38:49.473019+00:00",
+        "duration_seconds": 52.41,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2471
+      },
+      "P05": {
+        "patient_id": "P05",
+        "age": "38",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:39:42.885341+00:00",
+        "duration_seconds": 17.22,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1939
+      },
+      "P06": {
+        "patient_id": "P06",
+        "age": "71",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:40:01.101473+00:00",
+        "duration_seconds": 26.05,
+        "success": true,
+        "error": null,
+        "output_length_chars": 3511
+      },
+      "P07": {
+        "patient_id": "P07",
+        "age": "50",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:40:28.149595+00:00",
+        "duration_seconds": 23.8,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2227
+      },
+      "P08": {
+        "patient_id": "P08",
+        "age": "33",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:40:52.950292+00:00",
+        "duration_seconds": 15.9,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1838
+      },
+      "P09": {
+        "patient_id": "P09",
+        "age": "67",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:41:09.847261+00:00",
+        "duration_seconds": 23.27,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2137
+      },
+      "P10": {
+        "patient_id": "P10",
+        "age": "41",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:41:34.119315+00:00",
+        "duration_seconds": 17.82,
+        "success": true,
+        "error": null,
+        "output_length_chars": 1394
+      }
+    },
+    "arm4_gate_handler": {
+      "P01": {
+        "patient_id": "P01",
+        "age": "54",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:41:52.940714+00:00",
+        "duration_seconds": 16.49,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2515
+      },
+      "P02": {
+        "patient_id": "P02",
+        "age": "62",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:42:10.433149+00:00",
+        "duration_seconds": 17.86,
+        "success": true,
+        "error": null,
+        "output_length_chars": 3520
+      },
+      "P03": {
+        "patient_id": "P03",
+        "age": "29",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:42:29.294510+00:00",
+        "duration_seconds": 17.77,
+        "success": true,
+        "error": null,
+        "output_length_chars": 4014
+      },
+      "P04": {
+        "patient_id": "P04",
+        "age": "45",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:42:48.069062+00:00",
+        "duration_seconds": 22.35,
+        "success": true,
+        "error": null,
+        "output_length_chars": 3760
+      },
+      "P05": {
+        "patient_id": "P05",
+        "age": "38",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:43:11.416182+00:00",
+        "duration_seconds": 17.29,
+        "success": true,
+        "error": null,
+        "output_length_chars": 3113
+      },
+      "P06": {
+        "patient_id": "P06",
+        "age": "71",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:43:29.705185+00:00",
+        "duration_seconds": 27.01,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2799
+      },
+      "P07": {
+        "patient_id": "P07",
+        "age": "50",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:43:57.719934+00:00",
+        "duration_seconds": 19.12,
+        "success": true,
+        "error": null,
+        "output_length_chars": 4443
+      },
+      "P08": {
+        "patient_id": "P08",
+        "age": "33",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:44:17.835515+00:00",
+        "duration_seconds": 18.19,
+        "success": true,
+        "error": null,
+        "output_length_chars": 3395
+      },
+      "P09": {
+        "patient_id": "P09",
+        "age": "67",
+        "sex": "F",
+        "call_started_utc": "2026-09-08T20:44:37.024426+00:00",
+        "duration_seconds": 16.19,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2682
+      },
+      "P10": {
+        "patient_id": "P10",
+        "age": "41",
+        "sex": "M",
+        "call_started_utc": "2026-09-08T20:44:54.213558+00:00",
+        "duration_seconds": 16.48,
+        "success": true,
+        "error": null,
+        "output_length_chars": 2495
+      }
+    }
+  }
+}

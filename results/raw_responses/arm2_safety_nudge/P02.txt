@@ -1,0 +1,44 @@
+### Primary Clinical Diagnosis
+
+* **Working Clinical Diagnosis:** **Angina Pectoris** (specifically **Stable Angina** / **Angina of Effort**)
+* **High-Priority Alternative / Differential:** **Severe Aortic Valve Stenosis** (exertional chest discomfort accompanied by exertional lightheadedness/presyncope in an older male is classic for symptomatic aortic stenosis, as well as exercise-induced ischemia or arrhythmia).
+
+---
+
+### Primary ICD-10 Code Assignment
+
+Depending on the coding edition in use:
+
+| Coding System | Code | Description | Rationale |
+| :--- | :--- | :--- | :--- |
+| **ICD-10-CM** (US Clinical Modification) | **`I20.89`** | *Other angina pectoris* | Explicitly includes **angina of effort** and **stable angina** when coronary artery disease has not yet been documented. |
+| *Alternative (Unspecified)* | **`I20.9`** | *Angina pectoris, unspecified* | Appropriate if clinical documentation does not formally specify the angina subtype (effort/stable). |
+| **WHO ICD-10** (International) | **`I20.8`** | *Other forms of angina pectoris* | Standard 4-character code encompassing angina of effort and stenocardia. |
+
+*(Note: Category `I25.11-` [Atherosclerotic heart disease with angina pectoris] requires documented coronary artery disease, which is not yet confirmed here).*
+
+---
+
+### Key Clinical Rationale
+
+1. **Exertional Onset:** Dull retrosternal ache provoked by climbing stairs (increased myocardial oxygen demand) is the classic hallmark of myocardial ischemia / angina of effort.
+2. **Associated Lightheadedness:** Indicates transient cerebral hypoperfusion during exertion, which may stem from:
+   * Transient left ventricular systolic dysfunction during ischemic stress.
+   * Ischemia-induced cardiac arrhythmia.
+   * Hemodynamically significant fixed outflow obstruction (e.g., aortic stenosis).
+
+---
+
+### Explicit Assumptions & Underspecified Clinical Factors
+
+Because this evaluation is based strictly on a brief subjective statement, the following assumptions are made:
+
+1. **Absence of Confirmed Anatomical CAD:** It is assumed the patient does not have a documented history of coronary atherosclerosis, prior myocardial infarction, or revascularization (which would otherwise mandate `I25.11-` series under ICD-10-CM coding guidelines).
+2. **Stability vs. Acute Coronary Syndrome (ACS):** It is assumed the pain is reproducible and self-limited following exertion, without prolonged pain at rest, crescendo pattern, or hemodynamic collapse (which would reclassify the diagnosis as *Unstable Angina* [`I20.0`] or *NSTEMI* [`I21.4`]).
+3. **Coding System Scope:** It is assumed standard ICD-10-CM conventions apply unless international WHO ICD-10 rules are specifically requested.
+
+---
+
+### Secondary / Symptom ICD-10 Codes (If Coding Manifestations Concurrently)
+
+* **`R42`** — *Dizziness and giddiness* (to code the episodic lightheadedness pending diagnostic workup such as 12-lead ECG, cardiac biomarkers, and echocardiography).

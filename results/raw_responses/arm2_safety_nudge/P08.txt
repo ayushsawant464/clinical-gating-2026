@@ -1,0 +1,33 @@
+### **Primary Clinical Diagnosis**
+**Panic Disorder** (Episodic Paroxysmal Anxiety)
+
+---
+
+### **Primary ICD-10 Code**
+* **`F41.0`** — *Panic disorder [episodic paroxysmal anxiety]*
+
+---
+
+### **Clinical Rationale**
+The patient’s symptom cluster exhibits the classic hallmark presentation of recurrent panic attacks:
+* **Paroxysmal, abrupt onset**: *"sudden episodes"*
+* **Cardiovascular arousal**: *"heart starts racing"* (palpitations / tachycardia)
+* **Autonomic hyperactivity**: *"hands get clammy"* (diaphoresis / peripheral vasoconstriction)
+* **Respiratory distress**: *"feel like I can't catch my breath"* (dyspnea / hyperventilation)
+
+---
+
+### **Explicit Assumptions**
+1. **Medical/Organic Rule-Out**: It is assumed that underlying medical etiologies mimicking paroxysmal autonomic surges (e.g., cardiac arrhythmias, hyperthyroidism, pheochromocytoma, hypoglycemic episodes, or substance/medication effects) have been or will be ruled out.
+2. **Recurrence & Presentation**: The description *"I get sudden episodes"* indicates recurrent, paroxysmal attacks rather than a single isolated event or continuous generalized anxiety.
+3. **Absence of Agoraphobia**: No avoidance of public/open spaces or escape-restricted environments is reported. If agoraphobia is present, the diagnosis would be classified under **`F40.01`** (*Agoraphobia with panic disorder*).
+
+---
+
+### **Key Differential Diagnoses & Alternative Codes**
+* **Paroxysmal Supraventricular Tachycardia (PSVT)** — **`I47.1`**
+* **Generalized Anxiety Disorder (GAD)** — **`F41.1`** (more persistent, non-episodic worry)
+* **Hyperthyroidism, unspecified** — **`E05.90`**
+* **Symptom-only coding** (if a definitive diagnosis cannot yet be established pending workup):
+  * Palpitations: **`R00.2`**
+  * Shortness of breath: **`R06.02`**

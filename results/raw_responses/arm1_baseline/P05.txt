@@ -1,0 +1,32 @@
+### **1. Primary Clinical Diagnosis**
+* **Diagnosis:** **Irritable Bowel Syndrome (IBS)** — specifically, **Mixed Irritable Bowel Syndrome (IBS-M)** (alternating / unpredictable bowel habits).
+* *Alternative Working Diagnosis:* **Irritable Bowel Syndrome, unspecified** (if subtyping criteria are not formally documented).
+
+---
+
+### **2. Primary ICD-10 Code**
+* **Primary Code:** **`K58.2`** — *Mixed irritable bowel syndrome*
+* *Alternative / General Code:* **`K58.9`** — *Irritable bowel syndrome without diarrhea* (includes *Irritable bowel syndrome, unspecified*)
+
+---
+
+### **3. Clinical Rationale & Analysis**
+
+| Feature | Patient Presentation | Clinical Significance |
+| :--- | :--- | :--- |
+| **Demographics** | 38-year-old female | Classic demographic profile (peak prevalence of functional GI disorders in women aged 20–50). |
+| **Abdominal Pain** | "Hurts after eating" | Postprandial visceral hypersensitivity and gastrocolic reflex exacerbation are hallmark features of IBS. |
+| **Abdominal Bloating** | "Gets bloated" | Frequent associated feature of functional bowel disorders and dysmotility. |
+| **Altered Bowel Habits** | "Unpredictable for a few weeks" | Fluctuations between loose/frequent stools and constipation/sluggish motility characterize the mixed subtype (**IBS-M**). |
+
+---
+
+### **4. Official Coding & Documentation Considerations**
+
+* **Definitive vs. Symptom-Based Coding (ICD-10-CM Guidelines):**
+  * Formal **Rome IV criteria** for IBS typically require recurrent abdominal pain on average at least 1 day/week over the preceding 3 months, with onset at least 6 months prior.
+  * If a definitive or provisional diagnosis of IBS is documented by the clinician, assign **`K58.2`** (or **`K58.9`**).
+  * If the clinician has **not** established a working diagnosis and only documents presenting signs and symptoms, code:
+    * **`R10.9`** — *Abdominal pain, unspecified* (or `R10.84` for *Generalized abdominal pain*)
+    * **`R14.0`** — *Abdominal distension (gaseous) / Bloating*
+    * **`R19.4`** — *Change in bowel habit*

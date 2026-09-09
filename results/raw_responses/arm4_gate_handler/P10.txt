@@ -1,0 +1,25 @@
+### 1. GAP LIST
+
+The following clinical decision points and objective findings required by clinical guidelines (e.g., American Academy of Sleep Medicine / ICSD-3) are missing from the presentation:
+
+* **Objective Sleep Architecture and Respiratory Metrics:** No sleep study has been performed. Missing Apnea-Hypopnea Index (AHI), Respiratory Disturbance Index (RDI), and oxygen desaturation nadir (SpO₂). A definitive diagnosis of obstructive sleep apnea requires objective documentation (e.g., AHI/RDI $\ge 5$ events/hour with symptoms, or $\ge 15$ events/hour).
+* **Physical Examination & Upper Airway Assessment:** Missing Mallampati score, evaluation of tonsillar size, nasal airway patency, craniofacial morphology, and cardiopulmonary exam.
+* **Vital Signs and Anthropometrics:** Missing Blood Pressure (to assess for associated systemic hypertension), Body Mass Index (BMI), and neck circumference.
+* **Standardized Clinical Assessments:** Missing validated clinical screening scores, such as the Epworth Sleepiness Scale (ESS) or STOP-Bang score.
+* **Laboratory Investigations:** Missing thyroid-stimulating hormone (TSH) to evaluate for underlying hypothyroidism, and Complete Blood Count (CBC) to screen for chronic nocturnal hypoxemia-induced polycythemia.
+
+---
+
+### 2. GATE
+
+* **Objective Sleep Testing (PSG/HSAT):** **YES** — An objective sleep study is mandatory to differentiate obstructive sleep apnea from central sleep apnea, sleep-related hypoventilation, or benign primary snoring, and to quantify severity prior to initiating therapies such as positive airway pressure (PAP).
+* **Physical Examination and Vitals:** **YES** — Essential to rule out anatomical obstructions, cardiopulmonary complications, or alternative etiologies.
+
+**GATE=ASK**
+
+I cannot assign a definitive diagnosis or ICD-10 code without objective diagnostic tests. Clinical history alone is insufficient to establish a definitive diagnosis of sleep-disordered breathing.
+
+#### Required Diagnostic Tests:
+1. **Diagnostic Sleep Study:** Formal unattended Home Sleep Apnea Testing (HSAT) or in-laboratory diagnostic Polysomnography (PSG) to measure AHI/RDI and nocturnal oxygen desaturation.
+2. **Clinical & Airway Physical Examination:** In-person upper airway inspection (Mallampati classification, tonsil grade) and vital sign evaluation (blood pressure, BMI, neck circumference).
+3. **Targeted Laboratory Workup:** Serum TSH (to rule out hypothyroidism) and CBC (to screen for secondary erythrocytosis).

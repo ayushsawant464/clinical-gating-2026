@@ -1,0 +1,35 @@
+### Clinical Assessment & ICD-10 Classification
+
+#### 1. Explicit Assumptions & Clarifications
+* **Clinical Underspecification:** The prompt provides only isolated, subjective constitutional symptoms without objective physical examination findings (e.g., lymphadenopathy, organomegaly), laboratory data (e.g., CBC, LDH, ESR/CRP, HIV, QuantiFERON), or diagnostic imaging.
+* **ICD-10-CM Coding Assumption (Section I.B.4):** Official coding guidelines dictate that in outpatient/ambulatory evaluations where a definitive disease has **not** yet been established, the primary code must represent the documented signs and symptoms rather than speculative or unconfirmed diagnoses.
+
+---
+
+### Primary Clinical Diagnosis
+
+* **Provisional / Symptom Diagnosis:** **Unexplained / Abnormal Weight Loss with Drenching Night Sweats (Systemic Constitutional / "B" Symptoms)**
+* **Top Working Differential Diagnoses (Requires Immediate Workup):**
+  1. **Hematologic Malignancy:** Lymphoma (Hodgkin lymphoma, Non-Hodgkin lymphoma)
+  2. **Infection:** Tuberculosis (pulmonary/extrapulmonary), HIV infection, occult abscess, subacute bacterial endocarditis
+  3. **Solid Tumor Malignancy:** Occult carcinoma (e.g., gastrointestinal, renal cell, lung)
+  4. **Endocrine / Systemic:** Hyperthyroidism, pheochromocytoma, autoimmune/vasculitic disorders
+
+---
+
+### Assigned ICD-10 Codes
+
+| Designation | ICD-10 Code | Description | Rationale |
+| :--- | :--- | :--- | :--- |
+| **Primary Code** | **`R63.4`** | **Abnormal weight loss** | Captures the unexpected/unintentional weight loss over two months; primary symptom warranting diagnostic evaluation. |
+| **Secondary Code** | **`R61`** | **Generalized hyperhidrosis** | Official ICD-10-CM code indexing drenching night sweats. |
+
+*(Note: If reporting as an encounter for observation/investigation of a suspected condition before results return, **`Z03.89`** [Encounter for observation for other suspected diseases and conditions] can also be utilized in clinical documentation).*
+
+---
+
+### Recommended Next Diagnostic Steps
+1. **Physical Exam:** Complete nodal survey (cervical, supraclavicular, axillary, inguinal), hepatosplenomegaly check, skin/chest exam.
+2. **Laboratory Workup:** CBC with peripheral blood smear, CMP, ESR, CRP, LDH, TSH, HIV 1/2 antigen/antibody, and QuantiFERON-TB Gold.
+3. **Imaging:** Contrast-enhanced CT scan (neck, chest, abdomen, pelvis) or chest radiograph (CXR).
+4. **Tissue Biopsy:** Excisional lymph node biopsy if lymphadenopathy is present.

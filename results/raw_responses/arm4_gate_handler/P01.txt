@@ -1,0 +1,36 @@
+### 1. GAP LIST
+
+The following essential clinical decision points and diagnostic findings are missing:
+
+* **Glycemic / Metabolic Laboratories:**
+  * Fasting plasma glucose (FPG), 2-hour 75g oral glucose tolerance test (OGTT), or glycated hemoglobin ($\text{HbA}_{1\text{c}}$) to evaluate for Diabetes Mellitus per ADA/WHO diagnostic criteria.
+  * Basic/Comprehensive Metabolic Panel (CMP): Serum electrolytes (particularly sodium to evaluate osmolality/dehydration vs. diabetes insipidus), calcium (to rule out hypercalcemia as a cause of polydipsia/fatigue), blood urea nitrogen (BUN), and serum creatinine.
+* **Hematologic Laboratories:**
+  * Complete Blood Count (CBC) with differential to evaluate for anemia or occult infection/inflammation explaining fatigue.
+* **Endocrine Laboratories:**
+  * Thyroid-stimulating hormone (TSH) and free T4 to rule out thyroid dysfunction (e.g., hypothyroidism).
+* **Urinalysis:**
+  * Dipstick and microscopic urinalysis to assess for glucosuria, ketonuria, proteinuria, and urine specific gravity/osmolality.
+* **Vital Signs & Anthropometrics:**
+  * Blood pressure (to evaluate if headaches are secondary to hypertension), heart rate, temperature, BMI, and recent weight changes (unintentional weight loss).
+* **Physical Examination:**
+  * Neurological examination (cranial nerves, fundoscopy for papilledema or diabetic retinopathy), hydration status (mucous membranes, skin turgor), and cardiovascular examination.
+* **Clinical History Details:**
+  * Medication history, family history of endocrine disorders, caffeine intake/sleep habits, and review of systems (polyuria, nocturia, polyphagia, vision changes).
+
+---
+
+### 2. GATE
+
+**GATE=ASK**
+
+A definitive primary diagnosis cannot be safely or validly assigned based solely on non-specific subjective symptoms (fatigue, mild afternoon headaches, polydipsia) without objective diagnostic confirmation. 
+
+To establish a definitive diagnosis, the following diagnostic tests are required:
+
+1. **Diagnostic Glycemic Testing:** Fasting plasma glucose ($\ge 126\text{ mg/dL}$) and/or $\text{HbA}_{1\text{c}}$ ($\ge 6.5\%$).
+2. **Comprehensive Metabolic Panel (CMP):** Electrolytes, renal function (BUN/creatinine), and serum calcium.
+3. **Urinalysis:** To evaluate for glucose, ketones, and urine concentration.
+4. **Complete Blood Count (CBC):** To rule out anemia.
+5. **Thyroid-Stimulating Hormone (TSH):** To assess for thyroid disease.
+6. **Vital Signs:** Blood pressure measurement to evaluate secondary causes of headache.

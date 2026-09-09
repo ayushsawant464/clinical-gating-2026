@@ -1,0 +1,28 @@
+### Plan
+
+1. **Extract and analyze clinical features:** Identify patient demographics (29-year-old female), symptom characteristics (episodic/intermittent pain in bilateral small and large joints: hands and knees), and systemic manifestations (morning fatigue).
+2. **Perform clinical pathophysiological correlation:** Correlate the constellation of symmetric/polyarticular joint involvement and morning diurnal fatigue with autoimmune/inflammatory musculoskeletal disease patterns versus non-inflammatory etiologies.
+3. **Formulate a prioritized differential diagnosis:** Evaluate conditions with high pre-test probability in young females presenting with peripheral polyarthralgia and systemic inflammatory symptoms.
+4. **Determine the primary clinical diagnosis:** Select the most probable working/provisional diagnosis according to clinical presentation and epidemiological prevalence.
+5. **Assign the primary ICD-10 code:** Map the primary diagnosis to the appropriate standard ICD-10-CM code, including relevant subcategories based on serological status.
+
+---
+
+### Classification
+
+* **Primary Clinical Diagnosis:** **Rheumatoid Arthritis (Suspected / Early Rheumatoid Arthritis)**
+* **Primary ICD-10 Code:** **`M06.9`** (*Rheumatoid arthritis, unspecified*)
+
+---
+
+### Clinical Rationale & Differentials
+
+* **Clinical Rationale:** 
+  * **Demographics & Symptom Distribution:** A 29-year-old female presenting with polyarticular joint pain involving the hands (small joints) and knees (large joints) aligns with early inflammatory arthritis. 
+  * **Temporal Pattern:** Morning fatigue and episodic joint pain ("comes and goes") are hallmark early features of inflammatory arthritis (such as palindromic or fluctuating onset of rheumatoid arthritis) driven by diurnal elevations of pro-inflammatory cytokines (e.g., IL-6, TNF-$\alpha$).
+  * **Coding Precision:** Because serologic confirmation (RF, anti-CCP) and radiographic evaluations are pending at this initial presentation, the unspecified rheumatoid arthritis code **`M06.9`** is the standard primary diagnosis code. If seropositive or seronegative status is subsequently confirmed, it would be updated to **`M05.9`** or **`M06.0`**, respectively.
+
+* **Key Differential Diagnoses & Codes:**
+  1. **Systemic Lupus Erythematosus (SLE)** – **`M32.9`**: Common in women of reproductive age; frequently presents with intermittent, non-erosive polyarthralgia of the hands and knees accompanied by significant fatigue.
+  2. **Inflammatory Polyarthropathy / Undifferentiated Polyarthritis** – **`M06.4`** / **`M13.0`**: Applied if diagnostic criteria for RA remain incomplete upon further workup.
+  3. **Polyarthralgia of Multiple Sites** – **`M25.59`**: Symptom-level coding if an underlying systemic inflammatory diagnosis has not yet been established.

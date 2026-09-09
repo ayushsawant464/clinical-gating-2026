@@ -1,0 +1,14 @@
+### Plan of Action
+
+1. **Symptom & Demographic Analysis**: Evaluate the reported clinical signs—persistent fatigue, afternoon headaches, and polydipsia (increased thirst) over a one-month duration—in the context of a 54-year-old female.
+2. **Differential Diagnosis Synthesis**: Assess common etiologies matching this clinical picture (e.g., Type 2 Diabetes Mellitus, impaired glucose tolerance, diabetes insipidus, primary hypertension, or electrolyte imbalances).
+3. **Primary Diagnosis Determination**: Identify the most likely underlying condition based on the classic presentation of insidious polydipsia and fatigue in a middle-aged adult.
+4. **ICD-10 Mapping**: Correlate the established primary diagnosis with standard World Health Organization ICD-10 coding.
+5. **Report Classification**: Output the formalized clinical diagnosis and corresponding primary ICD-10 code.
+
+---
+
+### Classification
+
+* **Primary Clinical Diagnosis**: Type 2 Diabetes Mellitus (unspecified / without acute complications, pending confirmatory diagnostic laboratory testing such as fasting plasma glucose or HbA1c)
+* **Primary ICD-10 Code**: **`E11.9`** (*Type 2 diabetes mellitus without complications*)

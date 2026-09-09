@@ -1,0 +1,45 @@
+### 1. GAP LIST
+
+The following clinical decision points, baseline measurements, and objective diagnostic findings are missing from the prompt:
+
+* **Vital Signs & Anthropometrics:**
+  * Temperature curve (assessing for low-grade or Pel-Ebstein fevers).
+  * Objective quantification of weight loss (percentage of body weight lost over 2 months) and current Body Mass Index (BMI).
+  * Blood pressure, heart rate (resting tachycardia), and oxygen saturation.
+* **Physical Examination Findings:**
+  * Complete lymphatic system examination (cervical, supraclavicular, axillary, and inguinal lymphadenopathy for size, mobility, tenderness, and consistency).
+  * Abdominal examination (splenomegaly, hepatomegaly, or palpable abdominal masses).
+  * Cardiopulmonary examination (cardiac murmurs indicating endocarditis; adventitious lung sounds).
+  * Dermatologic and systemic exam (rashes, petechiae, track marks, or stigmata of chronic disease).
+* **Laboratory Values:**
+  * Complete Blood Count (CBC) with automated differential and peripheral blood smear review (assessing for cytopenias, leukocytosis, lymphopenia, or circulating atypical cells/blasts).
+  * Comprehensive Metabolic Panel (CMP) (renal function, liver function tests, serum calcium, and serum albumin).
+  * Inflammatory & Tumor Markers: Erythrocyte sedimentation rate (ESR), C-reactive protein (CRP), and Lactate dehydrogenase (LDH).
+  * Infectious disease serologies/tests: HIV-1/2 antigen/antibody immunoassay, interferon-gamma release assay (IGRA) or tuberculin skin test (TST), and blood cultures (if febrile).
+  * Endocrine evaluation: Thyroid-stimulating hormone (TSH) and free T4.
+* **Diagnostic Imaging:**
+  * Plain chest radiography (CXR) to evaluate for mediastinal widening, hilar adenopathy, or parenchymal pulmonary lesions.
+  * Contrast-enhanced computed tomography (CT) of the neck, chest, abdomen, and pelvis (or FDG-PET/CT) to assess for deep lymphadenopathy, organomegaly, or occult malignancy.
+* **Histopathology / Tissue Sampling:**
+  * Excisional lymph node biopsy, core needle biopsy, or bone marrow evaluation if imaging or laboratory findings indicate potential hematologic malignancy.
+
+---
+
+### 2. GATE
+
+**Gate Decision:** **GATE=ASK**
+
+* **Rationale:** 
+  Unintentional weight loss accompanied by drenching night sweats represents classic "B-symptoms" / constitutional symptoms with an extensive differential diagnosis, including hematologic malignancies (e.g., Hodgkin or Non-Hodgkin lymphoma), chronic or occult infections (e.g., Tuberculosis, HIV, subacute endocarditis), endocrine disorders (e.g., thyrotoxicosis), rheumatologic/autoimmune conditions, and solid organ neoplasms. Assigning a definitive diagnosis without objective diagnostic evaluation would be clinically unsafe, speculative, and invalid.
+
+**Statement:**
+A definitive diagnosis cannot be assigned without objective diagnostic tests. 
+
+**Specific Diagnostic Tests Required:**
+1. **Complete Blood Count (CBC) with differential & peripheral smear.**
+2. **Comprehensive Metabolic Panel (CMP)** including liver function tests, electrolytes, and serum calcium.
+3. **Serum Lactate Dehydrogenase (LDH), ESR, and CRP.**
+4. **Serum TSH and free T4.**
+5. **Infectious Screening:** HIV-1/2 antigen/antibody combination assay and Tuberculosis testing (IGRA or TST, accompanied by sputum AFB smear/culture if pulmonary symptoms or lesions arise).
+6. **Chest Radiography (CXR)** as an initial screen, followed by **contrast-enhanced CT of the neck, chest, abdomen, and pelvis** if adenopathy, organomegaly, or unexplained systemic findings persist.
+7. **Excisional lymph node biopsy** (if pathological lymphadenopathy is identified) for definitive histopathological, flow cytometric, and immunohistochemical analysis.

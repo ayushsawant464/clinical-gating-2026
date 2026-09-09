@@ -1,0 +1,36 @@
+### 1. GAP LIST
+
+The following clinical decision points, objective diagnostic findings, and guideline-mandated evaluations are absent from the presentation:
+
+* **Vital Signs:** Objective measurements during and between episodes (heart rate, pulse regularity, blood pressure, respiratory rate, oxygen saturation, and body temperature).
+* **Physical Examination:** Cardiovascular auscultation (murmurs, clicks, gallops, arrhythmia), pulmonary examination (wheezing, stridor), and endocrine/systemic signs (thyromegaly, exophthalmos, tremor, diaphoresis).
+* **Electrocardiographic (ECG) Data:** 
+  * Baseline 12-lead resting ECG (assessing for pre-excitation/WPW, prolonged QTc, conduction abnormalities, or underlying ischemia).
+  * Ambulatory rhythm monitoring (Holter monitor, patch monitor, or event recorder) during an active symptomatic episode to evaluate for paroxysmal supraventricular tachycardia (PSVT), atrial fibrillation/flutter, or ventricular ectopy versus sinus tachycardia.
+* **Laboratory Investigations:**
+  * Thyroid function tests (Serum TSH, Free T4) to evaluate for hyperthyroidism.
+  * Basic Metabolic Panel (BMP) and serum electrolytes (calcium, magnesium, potassium) to rule out electrolyte-mediated arrhythmias.
+  * Complete Blood Count (CBC) to assess for severe anemia causing compensatory tachycardia.
+  * Point-of-care or fasting blood glucose to exclude hypoglycemia.
+  * Urine toxicology / drug screen and review of medications/substances (caffeine, decongestants, sympathomimetics).
+  * Plasma or 24-hour urine fractionated metanephrines (if paroxysmal hyperadrenergic states/pheochromocytoma are suspected).
+* **Clinical History & Guideline Criteria Details:**
+  * Episode characteristics: onset speed, exact duration, offset (abrupt vs. gradual), frequency, and specific triggers (e.g., postural change, exertion, psychological stress).
+  * Medical rule-out criteria for psychiatric conditions (e.g., DSM-5-TR criteria for Panic Disorder require confirming that the episodes are not attributable to the physiological effects of a medical condition or substance).
+
+---
+
+### 2. GATE
+
+* **Material Impact Evaluation:** **YES.** The presence of episodic tachycardia, diaphoresis, and dyspnea without objective diagnostic data creates significant clinical ambiguity between organic cardiopulmonary/endocrine etiologies (such as paroxysmal supraventricular tachycardia or hyperthyroidism) and psychiatric etiologies (such as panic disorder). Assigning a definitive diagnosis without ruling out potentially dangerous somatic pathology compromises patient safety and clinical validity.
+
+**GATE=ASK**
+
+A definitive primary diagnosis cannot be assigned without objective diagnostic tests and clinical evaluation to exclude organic medical conditions. 
+
+#### Specific Diagnostic Tests Required:
+1. **12-Lead Electrocardiogram (ECG):** Baseline evaluation for underlying electrophysiologic abnormalities.
+2. **Ambulatory Cardiac Rhythm Monitoring (Holter or Event Monitor):** To achieve symptom-rhythm correlation during an active episode.
+3. **Serum Thyroid-Stimulating Hormone (TSH) and Free T4:** To screen for hyperthyroidism/thyrotoxicosis.
+4. **Basic Metabolic Panel (BMP) & Complete Blood Count (CBC):** To screen for electrolyte derangements, renal dysfunction, and anemia.
+5. **Urine Toxicology Screen:** To evaluate for substance- or stimulant-induced tachycardia.

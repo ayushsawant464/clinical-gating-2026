@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# TeX temporary build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk

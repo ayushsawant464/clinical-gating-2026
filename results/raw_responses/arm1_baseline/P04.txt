@@ -1,0 +1,37 @@
+### 1. Primary Diagnosis & ICD-10 Coding (Official Coding Guidelines)
+
+Under official **ICD-10-CM Coding Guidelines** (Section IV: *Outpatient Diagnostic Coding*), when a patient presents with symptoms and no definitive underlying etiology has been confirmed by diagnostic testing, the visit must be coded to the highest degree of certainty using symptom codes rather than presumptive diagnoses:
+
+* **Primary Clinical Diagnosis:** **Abnormal / Unexplained Weight Loss**
+  * **Primary ICD-10 Code:** **`R63.4`** (*Abnormal weight loss*)
+* **Secondary Clinical Diagnosis:** **Night Sweats**
+  * **Secondary ICD-10 Code:** **`R61`** (*Generalized hyperhidrosis* — includes night sweats)
+
+---
+
+### 2. Clinical Syndromic Classification: "B Symptoms"
+
+From a clinical standpoint, the constellation of unintentional weight loss and drenching night sweats represents classic **constitutional symptoms** (historically and clinically designated as **"B symptoms"**). 
+
+These are red-flag symptoms in a 45-year-old male that mandate immediate investigation for serious systemic disease.
+
+---
+
+### 3. Primary Differential Diagnoses & Corresponding ICD-10 Codes
+
+If the clinical task is to identify the suspected underlying disease process requiring urgent workup, the leading differential diagnoses include:
+
+| Clinical Diagnosis | ICD-10 Code | Clinical Rationale |
+| :--- | :--- | :--- |
+| **Lymphoma (Hodgkin / Non-Hodgkin)** *(Highest suspicion)* | **`C81.90`** (Hodgkin lymphoma, unspecified)<br>**`C85.90`** (Non-Hodgkin lymphoma, unspecified) | Unexplained weight loss and drenching night sweats are hallmark B-symptoms of hematologic malignancies. |
+| **Pulmonary / Extrapulmonary Tuberculosis** | **`A15.0`** (*Tuberculosis of lung*) | Chronic granulomatous infection classically presenting with night sweats, weight loss, and low-grade fevers. |
+| **HIV Infection / Seroconversion** | **`B20`** (*Human immunodeficiency virus [HIV] disease*) | Often presents with systemic constitutional symptoms, wasting, and immune dysregulation. |
+| **Hyperthyroidism / Thyrotoxicosis** | **`E05.90`** (*Thyrotoxicosis, unspecified*) | Hypermetabolic state presenting with unexplained weight loss and diaphoresis/sweating episodes. |
+
+---
+
+### 4. Recommended Next Diagnostic Steps
+To establish a definitive diagnosis and assign a permanent non-symptom ICD-10 code:
+1. **Laboratory Evaluation:** Complete Blood Count (CBC) with differential, peripheral blood smear, Comprehensive Metabolic Panel (CMP), ESR/CRP, LDH, TSH/free T4, HIV-1/2 screening, and QuantiFERON-TB Gold.
+2. **Imaging:** Contrast-enhanced CT scan of neck, chest, abdomen, and pelvis to evaluate for lymphadenopathy or masses.
+3. **Tissue Biopsy:** Excisional lymph node biopsy or bone marrow biopsy if lymphadenopathy or splenomegaly is identified.

@@ -1,0 +1,29 @@
+### Primary Clinical Diagnosis
+**Lumbago with sciatica, right side** *(Right-sided lumbar radiculopathy)*
+
+---
+
+### Primary ICD-10-CM Code
+**`M54.41`** — *Lumbago with sciatica, right side*
+
+---
+
+### Clinical & Coding Rationale
+
+1. **Symptom Mapping:**
+   * **Constant lower back ache:** Identifies axial low back pain (*lumbago*).
+   * **Pain shooting down the right leg:** Identifies radicular pain in a sciatic nerve distribution (*sciatica/radiculopathy*), localized to the **right side**.
+   * **Worsened by prolonged standing:** Classic presentation of nerve root compression/irritation (e.g., lumbar spinal stenosis or lumbar disk herniation).
+
+2. **ICD-10-CM Coding Rules:**
+   * Under ICD-10-CM guidelines, when a patient presents with **both** low back pain and sciatica, the combination code family **`M54.4-`** (*Lumbago with sciatica*) must be assigned rather than coding them separately. 
+   * **`M54.3-`** (*Sciatica*) carries an **Excludes1** note prohibiting its use alongside lumbago with sciatica.
+   * Specificity to the 5th character: `1` indicates the **right side**, yielding **`M54.41`**.
+
+---
+
+### Differential Diagnoses & Underlying Etiologies (Pending Imaging)
+In the absence of confirmatory diagnostic imaging (such as an MRI of the lumbar spine), the symptom-based diagnosis is primary. However, possible underlying etiologies include:
+* **Lumbar Spinal Stenosis** (`M48.061` / `M48.062`): Strongly suspected given age (67) and symptom exacerbation during prolonged upright standing (neurogenic claudication).
+* **Lumbar Intervertebral Disc Displacement with Radiculopathy** (`M51.16` / `M51.17`): Nerve root impingement (L4, L5, or S1).
+* **Lumbar Radiculopathy** (`M54.16`): Alternative clinical terminology for nerve root compromise.

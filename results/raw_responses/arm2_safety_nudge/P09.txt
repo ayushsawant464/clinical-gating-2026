@@ -1,0 +1,23 @@
+### Primary Diagnosis & Coding
+
+* **Primary Clinical Diagnosis:** **Lumbago with Sciatica (Right-sided Lumbar Radiculopathy)**
+* **Primary ICD-10-CM Code:** **`M54.41`** (*Lumbago with sciatica, right side*)
+
+---
+
+### Explicit Assumptions & Clinical Rationale
+
+1. **Coding Basis (Symptom vs. Structural Etiology):**
+   * The patient presents with concurrent lower back pain ("aching constantly") and radiating radicular pain down the ipsilateral extremity ("shoots down my right leg"). In ICD-10-CM, when low back pain and sciatica are reported together, combination code **`M54.4-`** is indicated.
+   * Laterality is specifically right-sided (`M54.41`).
+
+2. **Absence of Confirmatory Diagnostic Data:**
+   * In the absence of neuroimaging (MRI/CT of the lumbar spine) or electrodiagnostic studies (EMG/NCS), structural etiologies—such as a herniated nucleus pulposus (**`M51.16`**) or lumbar spinal stenosis (**`M48.061`**) with neurogenic claudication (which is common in this age group and often worsens with prolonged standing)—cannot be confirmed. Coding is therefore assigned based on the primary clinical presentation.
+
+---
+
+### Key Differential Diagnoses (Pending Imaging / Physical Exam)
+
+* **`M48.061`** – Spinal stenosis, lumbar region, with neurogenic claudication
+* **`M51.16`** – Intervertebral disc disorders with radiculopathy, lumbar region
+* **`M43.16`** – Spondylolisthesis, lumbar region

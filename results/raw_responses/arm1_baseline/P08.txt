@@ -1,0 +1,19 @@
+### Primary Clinical Diagnosis
+* **Diagnosis:** **Panic Disorder** (Panic Attack / Episodic Paroxysmal Anxiety)
+* **Primary ICD-10 Code:** **`F41.0`** (*Panic disorder [without agoraphobia]*)
+
+---
+
+### Clinical Rationale
+The patient presents with classic hallmark symptoms of an acute **panic attack** (episodic paroxysmal anxiety):
+* **Paroxysmal onset:** Discrete, sudden episodes.
+* **Autonomic hyperactivity:** Palpitations/tachycardia ("heart starts racing") and diaphoresis ("hands get clammy").
+* **Respiratory symptoms:** Dyspnea / hyperventilation sensation ("can't catch my breath").
+
+---
+
+### Key Differential Diagnoses (to rule out clinically)
+1. **Paroxysmal Supraventricular Tachycardia (PSVT)** – ICD-10: `I47.1`
+2. **Hyperthyroidism / Thyrotoxicosis** – ICD-10: `E05.90`
+3. **Pheochromocytoma** – ICD-10: `D35.00`
+4. **Generalized Anxiety Disorder (GAD)** – ICD-10: `F41.1` *(characterized by persistent, non-episodic worry)*

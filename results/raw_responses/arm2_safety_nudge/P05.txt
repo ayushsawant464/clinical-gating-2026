@@ -1,0 +1,20 @@
+### Primary Clinical Diagnosis & ICD-10 Classification
+
+* **Primary Clinical Diagnosis:** **Irritable Bowel Syndrome with mixed bowel habits (IBS-M)** *(Provisional)*
+* **Primary ICD-10 Code:** **`K58.2`** (*Irritable bowel syndrome with mixed bowel habits*)  
+  *(Alternative if bowel pattern is not yet formally characterized: **`K58.9`** – Irritable bowel syndrome, unspecified)*
+
+---
+
+### Explicit Assumptions & Coding Nuances
+
+1. **Working Diagnosis vs. Symptom-Based Coding:**
+   * **Clinical Working Diagnosis (`K58.2` / `K58.9`):** The triad of postprandial abdominal pain, abdominal bloating/distension, and unpredictable bowel habits in a 38-year-old female strongly points to Irritable Bowel Syndrome. The descriptor "unpredictable" indicates alternating or fluctuating bowel habits (constipation/diarrhea), aligning most specifically with IBS-M (`K58.2`).
+   * **Strict Coding Guideline Alternative (`R19.4` / `R10.9`):** Under strict ICD-10-CM outpatient coding rules, if diagnostic workup is incomplete and an organic cause has not yet been ruled out, symptom codes must be assigned instead of an unconfirmed definitive diagnosis:
+     * **`R19.4`** – *Change in bowel habit* (Primary symptom)
+     * **`R10.9`** – *Abdominal pain, unspecified*
+     * **`R14.0`** – *Abdominal distension (gaseous / bloating)*
+
+2. **Duration and Rome IV Criteria:**
+   * Formal Rome IV criteria for IBS require recurrent abdominal pain on average at least 1 day per week in the last 3 months, with symptom onset at least 6 months before diagnosis.
+   * Because symptoms have been present for only *"a few weeks,"* this presentation is subacute. Organic causes (e.g., Celiac disease, Inflammatory Bowel Disease, SIBO, or infectious enteritis) require exclusion before finalizing the diagnosis.

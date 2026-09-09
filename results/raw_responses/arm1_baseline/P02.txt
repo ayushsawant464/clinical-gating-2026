@@ -1,0 +1,18 @@
+### **Primary Clinical Diagnosis**
+* **Diagnosis:** **Stable Angina Pectoris** (Exertional Angina / Angina of Effort)
+
+---
+
+### **Primary ICD-10 Code**
+* **ICD-10-CM Code:** **`I20.9`** — *Angina pectoris, unspecified*
+  *(Alternative specific code under ICD-10-CM: **`I20.89`** / WHO ICD-10: **`I20.8`** — Other forms of angina pectoris / Angina of effort)*
+
+---
+
+### **Clinical Rationale**
+1. **Symptom Pattern:** The patient presents with classic features of exertional chest discomfort—a dull ache provoked by increased myocardial oxygen demand (walking up stairs).
+2. **Associated Symptoms:** Episodic lightheadedness (presyncope) during or following exertion can occur secondary to transient hypoperfusion, dysrhythmia, or reduced stroke volume during ischemic episodes.
+3. **Key Differential Diagnoses to Investigate:**
+   * **Coronary Artery Disease (CAD):** The underlying atherosclerotic etiology for stable angina (`I25.10` / `I25.119`).
+   * **Aortic Valve Stenosis:** The combination of exertional angina and presyncope/lightheadedness in an older adult male warrants urgent cardiac auscultation and echocardiography to rule out hemodynamically significant aortic stenosis (`I35.0`).
+   * **Unstable Angina:** If the onset is recent (<2 months), escalating in frequency, or occurs at rest (`I20.0`).

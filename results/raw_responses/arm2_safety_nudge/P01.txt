@@ -1,0 +1,18 @@
+### Clinical Assessment & Classification
+
+* **Primary Suspected Clinical Diagnosis:** **Type 2 Diabetes Mellitus** (Suspected / New-onset)
+* **Primary ICD-10-CM Code:** **`E11.9`** (*Type 2 diabetes mellitus without complications*)
+
+---
+
+### Explicit Assumptions & Clinical Rationale
+
+1. **Diagnostic Impression vs. Symptom Coding:**
+   * **Leading Diagnosis (`E11.9`):** In a 54-year-old patient, the triad of persistent fatigue (1 month), polydipsia (frequent thirst), and mild recurrent headaches is classically indicative of chronic hyperglycemia / new-onset Type 2 Diabetes Mellitus. We assume this task asks for the **primary underlying suspected etiology** rather than coding isolated symptoms.
+   * **Absence of Complications:** Because there are no documented diabetic emergencies (e.g., hyperosmolar hyperglycemic state, ketoacidosis) or end-organ microvascular/macrovascular changes, the condition is classified without complications (`E11.9`).
+
+2. **Alternative Coding Under Strict Outpatient Coding Guidelines:**
+   * If strictly adhering to standard coding guidelines where an unconfirmed "rule-out" diagnosis cannot be coded as definitive prior to objective laboratory confirmation (e.g., $\text{HbA1c} \ge 6.5\%$ or Fasting Plasma Glucose $\ge 126\text{ mg/dL}$), the primary symptoms would be coded individually:
+     * **`R63.1`** – *Polydipsia* (Primary chief complaint explaining thirst)
+     * **`R53.83`** – *Other fatigue*
+     * **`R51.9`** – *Headache, unspecified*

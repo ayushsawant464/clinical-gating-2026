@@ -1,0 +1,20 @@
+### Primary Clinical Diagnosis
+**Obstructive Sleep Apnea (OSA)** *(Provisional / Presumptive)*
+
+---
+
+### Primary ICD-10 Code
+* **`G47.33`** – Obstructive sleep apnea (adult) (pediatric)
+  *(If coding strictly as an unconfirmed/unspecified sleep apnea pending diagnostic testing: **`G47.30`** – Sleep apnea, unspecified)*
+
+---
+
+### Clinical Rationale
+* **Loud snoring and witnessed apneas ("pause breathing"):** Key diagnostic red flags for recurrent upper airway collapse during sleep.
+* **Trouble concentrating & dark circles under eyes:** Manifestations of sleep fragmentation, frequent micro-arousals, non-restorative sleep, and daytime cognitive impairment.
+
+---
+
+### Explicit Assumptions & Next Steps
+1. **Coding Standard:** Assumed standard **ICD-10-CM** (Clinical Modification).
+2. **Diagnostic Confirmation:** While clinical presentation strongly suggests OSA, formal confirmation requires an objective sleep evaluation (Polysomnography [PSG] or a Home Sleep Apnea Test [HSAT]) to measure the Apnea-Hypopnea Index (AHI).

@@ -1,0 +1,19 @@
+### Primary Classification & Coding
+
+* **Primary Clinical Diagnosis:** **Mild Cognitive Impairment (MCI)** (Amnestic presentation, suspected early neurodegenerative etiology)
+* **Primary ICD-10 Code:** **`G31.84`** (*Mild cognitive impairment, so stated*)
+
+---
+
+### Explicit Assumptions & Clinical Rationale
+
+1. **Functional Independence (ADLs/IADLs):** 
+   * The vignette describes progressive short-term memory complaints (misplacing keys) and mild temporal disorientation (confused about the day of the week). 
+   * It is assumed that the patient's basic and instrumental Activities of Daily Living (ADLs/IADLs) remain largely intact, which differentiates **Mild Cognitive Impairment (MCI)** from overt **Dementia / Major Neurocognitive Disorder**.
+
+2. **Underlying Etiology vs. Symptom Coding:**
+   * A definitive diagnosis of **Alzheimer's Disease** (`G30.9`) or other specific dementias requires objective neuropsychological testing (e.g., MoCA, MMSE), laboratory workup (e.g., TSH, B12 to rule out reversible causes), and neuroimaging (MRI/CT).
+   * Under standard ICD-10-CM guidelines:
+     * **`G31.84`** is the standard code when MCI is clinically suspected or determined.
+     * If strictly coded at the **presenting symptom** level prior to any clinical/neuropsychological evaluation, the alternative code is **`R41.3`** (*Other amnesia / Memory loss, unspecified*) or **`R41.89`** (*Other symptoms and signs involving cognitive functions and awareness*).
+     * If further assessment reveals loss of functional independence meeting criteria for dementia, the diagnosis would be updated to **Unspecified Dementia** (**`F03.90`**) or **Alzheimer's Disease** (**`G30.9`** / **`F02.80`**).

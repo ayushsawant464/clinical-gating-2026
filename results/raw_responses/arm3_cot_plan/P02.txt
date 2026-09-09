@@ -1,0 +1,18 @@
+### Plan
+
+1. **Synthesize clinical presentation**: Analyze patient demographics (62-year-old male), symptom characteristics (dull chest ache), provoking factors (exertion from climbing stairs), and associated symptoms (lightheadedness).
+2. **Evaluate differential diagnoses**: Assess potential cardiovascular, pulmonary, and non-cardiac etiologies (e.g., stable angina / coronary artery disease, aortic stenosis, musculoskeletal pain, gastroesophageal reflux).
+3. **Determine primary clinical diagnosis**: Identify the most likely underlying condition matching the exertional pattern and ischemic chest discomfort profile.
+4. **Map to ICD-10 classification**: Cross-reference the clinical diagnosis within the ICD-10-CM coding manual, accounting for the absence of prior diagnostic imaging or angiographic documentation.
+5. **Assign the primary ICD-10 code**: Select the most specific and accurate primary code for the identified condition.
+
+---
+
+### Classification
+
+* **Primary Clinical Diagnosis:** Angina Pectoris (Exertional / Stable Angina)
+* **Primary ICD-10 Code:** **I20.9** (*Angina pectoris, unspecified*)
+
+#### Clinical Rationale:
+* **Presentation:** A 62-year-old male experiencing predictable, dull retrosternal discomfort provoked by exertion (walking up stairs) is the classic presentation of exertional myocardial ischemia (angina pectoris). Associated lightheadedness may reflect transiently reduced cardiac output or autonomic responses during exertion.
+* **Coding Rationale:** In the absence of documented coronary angiographic findings confirming underlying native coronary artery disease (which would otherwise code to `I25.11-`), exertional/stable angina without further specification codes to **I20.9**.

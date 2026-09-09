@@ -1,0 +1,40 @@
+### 1. GAP LIST
+
+The following clinical decision points, baseline measurements, and objective diagnostic findings are missing from the presentation:
+
+*   **Vital Signs:** Resting blood pressure, orthostatic vitals, heart rate/rhythm, respiratory rate, and oxygen saturation ($\text{SpO}_2$).
+*   **Physical Examination:** 
+    *   *Cardiovascular:* Presence of cardiac murmurs (specifically a systolic ejection murmur characteristic of aortic stenosis), gallops ($S_3/S_4$), carotid pulse character (e.g., *pulsus parvus et tardus*), jugular venous distension, or peripheral edema.
+    *   *Pulmonary:* Auscultation for rales or signs of congestive heart failure.
+*   **12-Lead Electrocardiogram (ECG):** Assessment for acute or chronic ischemic changes (ST-segment elevation/depression, T-wave inversions, pathological Q waves), conduction abnormalities, left ventricular hypertrophy (LVH), or arrhythmias.
+*   **Laboratory Diagnostics:**
+    *   *Cardiac Biomarkers:* High-sensitivity cardiac troponin (to assess for acute coronary syndrome/myocardial necrosis).
+    *   *Hematology & Chemistry:* Complete blood count (CBC) to rule out severe anemia exacerbating exertional symptoms; basic metabolic panel (BMP) for renal function and electrolytes; lipid panel and glycemic markers ($\text{HbA}_{1c}$).
+*   **Cardiac Imaging & Functional Testing:**
+    *   *Transthoracic Echocardiography (TTE):* To evaluate left ventricular function, regional wall motion abnormalities, and assess for valvular disease (specifically aortic stenosis or hypertrophic obstructive cardiomyopathy).
+    *   *Ischemia Evaluation:* Coronary CT angiography (CCTA), stress testing (exercise or pharmacologic stress imaging), or invasive coronary angiography.
+*   **Detailed Clinical History:** Exact duration of chest pain, time to resolution with rest, radiation, associated diaphoresis/dyspnea, and past medical/cardiovascular risk factors (hypertension, smoking, diabetes, family history).
+
+---
+
+### 2. GATE
+
+*   **Material Impact Assessment:** **YES.** Exertional chest ache combined with lightheadedness in a 62-year-old male presents a critical clinical picture with potentially life-threatening etiologies. Most notably, this presentation could represent:
+    1.  Obstructive coronary artery disease (stable or unstable angina/ACS).
+    2.  Severe aortic valve stenosis (the classic triad includes angina, syncope/presyncope, and heart failure).
+    3.  Cardiac conduction disease or exertional tachy-/brady-arrhythmias.
+    4.  Hypertrophic cardiomyopathy.
+
+    Assigning a definitive diagnosis without objective diagnostic confirmation compromises patient safety, as treatment pathways and urgency diverge significantly between these conditions.
+
+**GATE=ASK**
+
+**Statement:** A definitive diagnosis cannot be assigned without objective diagnostic tests. 
+
+**Required Diagnostic Tests:**
+1.  **12-Lead Electrocardiogram (ECG)** (immediate evaluation for ischemia, conduction blocks, or arrhythmias)
+2.  **Serial High-Sensitivity Cardiac Troponin** (to rule out acute myocardial infarction/unstable coronary syndrome)
+3.  **Transthoracic Echocardiogram (TTE)** (to rule out critical aortic stenosis, structural disease, and assess ventricular wall motion)
+4.  **Vital Signs and Complete Physical Examination** (including auscultation for murmurs and orthostatic vitals)
+5.  **Complete Blood Count (CBC) and Basic Metabolic Panel (BMP)**
+6.  **Cardiac Stress Testing or Coronary Angiography** (guided by baseline ECG and initial workup)

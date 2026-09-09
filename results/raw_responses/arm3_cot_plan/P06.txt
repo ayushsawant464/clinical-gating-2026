@@ -1,0 +1,37 @@
+### Plan of Action
+
+1. **Analyze Patient Demographics and Clinical Presentation:** Evaluate the patient's age (71-year-old male) and specific reported symptoms (progressive forgetfulness, misplacing objects, and temporal disorientation regarding the day of the week).
+2. **Assess Symptom Severity and Functional Impact:** Distinguish normal age-related memory changes from pathological cognitive decline, specifically evaluating whether symptoms represent Mild Cognitive Impairment (MCI) or Major Neurocognitive Disorder (Dementia) based on the presence or absence of impaired independence in Activities of Daily Living (ADLs/IADLs).
+3. **Formulate the Primary Working Diagnosis:** Synthesize the clinical picture to establish the most appropriate clinical entity (amnestic Mild Cognitive Impairment vs. early-stage neurodegenerative disease vs. symptom-level presentation).
+4. **Identify and Map the Primary ICD-10 Code:** Select the most accurate and specific ICD-10-CM code corresponding to the primary working diagnosis and identify relevant secondary/symptom codes.
+5. **Delineate Key Differentials and Recommended Next Steps:** Outline necessary objective evaluations (cognitive screening, metabolic workup, neuroimaging) to rule out reversible etiologies or confirm progression.
+
+---
+
+### Clinical Classification & Coding
+
+#### **Primary Clinical Diagnosis**
+* **Diagnosis:** **Mild Cognitive Impairment (MCI)**, suspected **Amnestic subtype (aMCI)**
+* **Primary ICD-10-CM Code:** **`G31.84`** (*Mild cognitive impairment, so stated*)
+
+---
+
+### Clinical Rationale & Details
+
+* **Clinical Presentation:** 
+  * Misplacing common objects and progressive short-term forgetfulness combined with **temporal disorientation** (confusion about the day of the week) exceed typical age-associated memory decline.
+  * In the absence of documented functional loss or inability to perform basic and instrumental activities of daily living (ADLs/IADLs), the clinical presentation meets the core criteria for **amnestic Mild Cognitive Impairment (aMCI)**, which represents a transitional state between normal aging and early dementia.
+
+* **Alternative / Symptom-Level Coding:**
+  * **`R41.3`** (*Other amnesia / Memory loss, unspecified*) or **`R41.89`** (*Other symptoms and signs involving cognitive functions and awareness*): Applicable if billing strictly at the chief complaint/symptom level prior to objective neurocognitive confirmation.
+
+* **Primary Differentials to Rule Out:**
+  * **Alzheimer's Disease / Major Neurocognitive Disorder (ICD-10: `G30.9` / `F03.90`):** Should functional assessment reveal impairment in managing finances, medications, or other IADLs.
+  * **Depression / Pseudodementia (ICD-10: `F32.9` / `F32.A`):** Can present with subjective memory complaints and concentration deficits in older adults.
+  * **Reversible Metabolic/Systemic Causes:** Vitamin B12 deficiency (`E53.8`), hypothyroidism (`E03.9`), normal pressure hydrocephalus (`G91.2`), or polypharmacy/sedative effects.
+
+* **Recommended Diagnostic Evaluation:**
+  * **Cognitive Screening:** Montreal Cognitive Assessment (MoCA) or Mini-Mental State Examination (MMSE).
+  * **Functional Assessment:** Functional Activities Questionnaire (FAQ) to verify ADL independence.
+  * **Laboratory Panel:** Serum B12, TSH, comprehensive metabolic panel (CMP), and complete blood count (CBC).
+  * **Structural Neuroimaging:** Brain MRI (without contrast) to assess for hippocampal volume loss, vascular burden, or other structural pathology.

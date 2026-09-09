@@ -1,0 +1,31 @@
+### 1. GAP LIST
+
+The following clinical decision points and objective findings are missing:
+
+* **Focused Neurological and Physical Examination Findings:**
+  * Straight Leg Raise (SLR) / Lasegue's and Slump tests to evaluate nerve root tension.
+  * Lower extremity motor strength (myotomes L2–S1), sensory testing (dermatomes L3–S1), and deep tendon reflexes (patellar L4, Achilles S1).
+  * Peripheral vascular assessment (palpation of dorsalis pedis and posterior tibial pulses) to differentiate neurogenic claudication from vascular claudication.
+* **Red Flag / Cauda Equina Screening:**
+  * Explicit assessment for saddle anesthesia, acute bowel/bladder dysfunction (incontinence or urinary retention), and rapidly progressive motor deficits.
+  * History of fever, constitutional symptoms, trauma, osteoporosis, or prior malignancy.
+* **Diagnostic Imaging:**
+  * Lumbar spine MRI (or non-contrast CT / CT myelography if MRI is contraindicated) to evaluate for central canal stenosis, neuroforaminal stenosis, disc herniation, spondylolisthesis, or compressive masses.
+  * Weight-bearing lumbar radiographs (anteroposterior, lateral, and flexion/extension views) to assess dynamic instability or spondylolisthesis.
+* **Laboratory Studies / Vitals:**
+  * Temperature and vital signs.
+  * Inflammatory markers (ESR, CRP) and complete blood count (CBC) if infectious or inflammatory etiologies are suspected.
+
+---
+
+### 2. GATE
+
+* **Decision:** **GATE=ASK**
+
+A definitive clinical diagnosis cannot be assigned without objective diagnostic evaluation. The patient's reported symptoms (low back pain radiating down the right lower extremity aggravated by standing) are non-specific and can represent multiple distinct etiologies, including lumbar spinal stenosis, lumbar disc herniation with radiculopathy, degenerative spondylolisthesis, facet arthropathy, or peripheral vascular disease. Furthermore, critical safety evaluations (such as ruling out cauda equina syndrome or severe progressive compressive neuropathy) cannot be established from symptoms alone.
+
+#### Required Diagnostic Tests:
+1. **MRI of the Lumbar Spine (without contrast):** Primary imaging modality to visualize neural elements, the spinal canal, intervertebral discs, and neural foramina.
+2. **Comprehensive Lower Extremity Neurological Examination:** To map specific nerve root involvement (L4, L5, S1) and assess for functional deficits.
+3. **Standing/Flexion-Extension Lumbar Radiographs:** To assess mechanical alignment, disc height loss, and dynamic instability.
+4. **Vascular Assessment (Peripheral Pulses / Ankle-Brachial Index):** To exclude vascular claudication given symptom exacerbation with standing.

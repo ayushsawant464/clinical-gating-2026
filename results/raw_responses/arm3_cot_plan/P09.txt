@@ -1,0 +1,22 @@
+### Step-by-Step Plan
+
+1. **Analyze Clinical Presentation & Key Features:** Review the patient's age (67 years), sex (female), primary complaint (constant lower back ache), and neurological symptom (radiating/shooting pain down the right lower extremity exacerbated by prolonged standing).
+2. **Localize Anatomical & Pathophysiological Process:** Identify the neuroanatomical pathway involved—specifically lumbar/lumbosacral spine pathology with right-sided nerve root irritation/compression (radicular pain / sciatic nerve distribution).
+3. **Evaluate Differential Diagnoses:** Consider underlying etiologies common in this demographic (e.g., lumbar spinal stenosis, lumbar disc herniation/degenerative disc disease with radiculopathy, facet arthropathy, and spondylolisthesis).
+4. **Determine Primary Clinical Diagnosis:** Select the most accurate clinical diagnosis that captures both the axial back pain and radiating right leg pain based on clinical findings prior to advanced imaging.
+5. **Assign ICD-10-CM Code:** Identify and verify the specific primary ICD-10-CM code reflecting the diagnosis, including laterality (right side).
+
+---
+
+### Clinical Classification
+
+* **Primary Clinical Diagnosis:** **Lumbago with sciatica, right side** *(alternatively classified clinically as Right Lumbar Radiculopathy)*
+* **Primary ICD-10 Code:** **`M54.41`** (*Lumbago with sciatica, right side*)
+
+---
+
+### Clinical Rationale
+
+* **Symptom Concordance:** The patient presents with axial lower back pain ("aching constantly" — lumbago) coupled with classic radicular pain shooting down the right lower extremity ("shoots down my right leg" — sciatica). ICD-10-CM combination code `M54.41` specifically captures both manifestations and specifies right-sided laterality.
+* **Secondary Considerations / Underlying Etiology:** 
+  * Given her age (67) and the exacerbation of symptoms with prolonged standing (suggestive of neurogenic claudication / facet loading), **Lumbar Spinal Stenosis** (`M48.061` / `M48.062`) or **Lumbar Disc Disorder with Radiculopathy** (`M51.16`) are top underlying structural differentials to evaluate with MRI/imaging.

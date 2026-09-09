@@ -1,0 +1,24 @@
+### Plan
+
+1. **Analyze Patient Presentation and Demographics**: Review the patient profile (50-year-old male) and documented clinical manifestations (chronic dry/non-productive cough and exertional dyspnea with mild exertion such as light housework).
+2. **Formulate Differential Diagnoses**: Evaluate potential etiologies matching progressive exertional dyspnea accompanied by an indolent dry cough (e.g., Interstitial Lung Disease / Idiopathic Pulmonary Fibrosis, Chronic Obstructive Pulmonary Disease, Cough-variant Asthma, Heart Failure, or Drug-induced pulmonary toxicity).
+3. **Apply Clinical Diagnostic and Coding Guidelines**: 
+   - Identify the most likely working/suspected underlying pathology.
+   - Contrast provisional clinical diagnosis against ICD-10-CM guidelines regarding symptom-based coding when confirmatory diagnostic testing (spirometry, high-resolution CT, chest radiography) is pending.
+4. **Assign Primary Clinical Diagnosis and ICD-10 Code**: Select the definitive or primary provisional diagnosis and assign the corresponding ICD-10-CM code.
+
+---
+
+### Classification
+
+* **Primary Suspected Clinical Diagnosis**: **Interstitial Lung Disease (ILD), unspecified** (differential includes early **Idiopathic Pulmonary Fibrosis [IPF]** or **Chronic Obstructive Pulmonary Disease [COPD]**)
+  * *Clinical Rationale*: The combination of an insidious, persistent non-productive (dry) cough and exertional dyspnea (shortness of breath during low-metabolic activities like light housework) in a 50-year-old male is classic for an interstitial/restrictive parenchymal pulmonary process (e.g., ILD/IPF).
+* **Primary ICD-10 Code**: **`J84.9`** (*Interstitial pulmonary disease, unspecified*)
+  * *Alternative / Confirmed IPF*: **`J84.112`** (*Idiopathic pulmonary fibrosis*)
+
+---
+
+#### *Coding Note (Symptom-Level Reporting)*
+Under official ICD-10-CM coding rules (Section I.B.4), if definitive imaging (HRCT) or pulmonary function testing (PFTs) has not yet been performed to confirm a specific disease etiology, the documented signs and symptoms are coded primarily:
+* **Primary Symptom Code**: **`R05.3`** (*Chronic cough*)
+* **Secondary Symptom Code**: **`R06.02`** (*Shortness of breath / Dyspnea on exertion*)

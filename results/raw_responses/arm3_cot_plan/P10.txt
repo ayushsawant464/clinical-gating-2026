@@ -1,0 +1,18 @@
+### Plan of Action
+
+1. **Extract and analyze clinical features:** Identify key symptoms, patient demographics, and history reported in the vignette (e.g., observed apneas/breathing pauses, loud snoring, daytime cognitive impairment, and physical signs of fatigue).
+2. **Differential diagnosis & clinical correlation:** Correlate the constellation of symptoms (especially witnessed apneas and loud habitual snoring combined with daytime dysfunction) against standard diagnostic criteria for sleep-related breathing disorders.
+3. **Determine primary diagnosis:** Identify the single most specific and likely primary medical condition accounting for all presenting symptoms.
+4. **Assign ICD-10 code:** Cross-reference the diagnosis against the International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) to determine the exact primary code.
+
+---
+
+### Classification
+
+* **Primary Clinical Diagnosis:** Obstructive Sleep Apnea (OSA)
+* **Primary ICD-10 Code:** **G47.33** (*Obstructive sleep apnea (adult) (pediatric)*)
+
+#### Clinical Rationale
+The patient exhibits classic hallmark features of adult obstructive sleep apnea:
+* **Nighttime symptoms:** Loud snoring and partner-witnessed breath pauses (apneas/hypopneas).
+* **Daytime symptoms:** Difficulty concentrating at work and dark under-eye circles, reflecting unrefreshing sleep and chronic sleep fragmentation.

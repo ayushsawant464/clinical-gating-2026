@@ -1,0 +1,37 @@
+### **Primary Clinical Diagnosis & ICD-10 Assignment**
+
+* **Primary Suspected Clinical Diagnosis:** **Early Rheumatoid Arthritis (RA) / Inflammatory Polyarthritis**
+* **Primary ICD-10 Code:** **`M06.9`** (*Rheumatoid arthritis, unspecified*)
+  * *Alternative / Provisional (Inflammatory Polyarthropathy):* **`M06.4`** (*Inflammatory polyarthropathy*)
+
+---
+
+### **Clinical Coding Context (Symptom-Level vs. Definitive)**
+
+Depending on documentation and encounter type (e.g., formal outpatient coding guidelines prior to serologic/radiographic confirmation):
+
+1. **Suspected Etiologic Diagnosis (Working Diagnosis):**
+   * **Diagnosis:** **Rheumatoid Arthritis, unspecified**
+   * **ICD-10 Code:** **`M06.9`**
+   * *Rationale:* In a 29-year-old female, new-onset episodic polyarticular joint pain involving the hands (small joints) and knees (large joints) coupled with morning fatigue/stiffness is the classic hallmark presentation of early inflammatory arthritis, predominantly **Rheumatoid Arthritis** (or alternatively, early **Systemic Lupus Erythematosus**, `M32.9`).
+
+2. **Symptom-Based Coding (ICD-10-CM Outpatient Guidelines):**
+   * *Under official ICD-10-CM Outpatient Coding Guidelines (Section IV), if no definitive diagnosis is confirmed during the initial visit, code to the highest degree of certainty based on presenting signs and symptoms:*
+     * **Primary Symptom:** **`M25.50`** (*Pain in unspecified joint / Polyarthralgia*) 
+       * Or site-specific codes: **`M25.549`** (*Pain in unspecified hand joints*) and **`M25.569`** (*Pain in unspecified knee joint*)
+     * **Secondary Symptom:** **`R53.83`** (*Other fatigue*)
+
+---
+
+### **Key Differential Diagnoses**
+* **Rheumatoid Arthritis (RA)** (`M06.9` / `M05.9`)
+* **Systemic Lupus Erythematosus (SLE)** (`M32.9`)
+* **Undifferentiated Connective Tissue Disease (UCTD)** (`M35.9`)
+* **Polyarthralgia / Polyarthritis, unspecified** (`M13.0`)
+
+---
+
+### **Recommended Workup to Confirm Diagnosis**
+* **Serology:** Rheumatoid Factor (RF), anti-cyclic citrullinated peptide (anti-CCP), Antinuclear Antibodies (ANA).
+* **Inflammatory Markers:** Erythrocyte Sedimentation Rate (ESR), C-Reactive Protein (CRP).
+* **Imaging & Physical Exam:** Bilateral hand and knee radiographs/ultrasound, evaluation for joint tenderness, swelling (synovitis), and duration of morning stiffness.

@@ -1,0 +1,36 @@
+### Plan
+
+1. **Analyze Patient Presentation & Demographics**: Evaluate the patient's profile (45-year-old male), symptom onset/duration (two months), and reported symptoms (unintentional weight loss, episodic drenching night sweats).
+2. **Assess Clinical Significance**: Identify the symptom cluster as constitutional symptoms (classic "B symptoms"), which are significant clinical warning signs indicating systemic inflammation, occult infection, or malignancy.
+3. **Formulate the Clinical Differential**: Outline the primary potential underlying causes requiring urgent diagnostic workup (hematologic malignancy, chronic infection like tuberculosis, endocrine/hypermetabolic disorders).
+4. **Apply ICD-10-CM Official Coding Guidelines**: In an initial clinical encounter where diagnostic testing (biopsy, laboratory tests, imaging) has not yet confirmed a definitive underlying etiology, guidelines (ICD-10-CM Official Guidelines Section IV.H) dictate coding the presenting symptoms/signs to the highest level of certainty rather than speculative diagnoses.
+5. **Assign Primary and Secondary ICD-10 Codes**: Determine the primary code representing the chief complaint and document secondary/differential codes.
+
+---
+
+### Clinical Classification & ICD-10 Assignment
+
+#### 1. Primary Clinical Diagnosis (Encounter Presentation)
+* **Primary Diagnosis**: **Abnormal (unintentional) weight loss**
+* **Primary ICD-10 Code**: **`R63.4`** (Abnormal weight loss)
+
+#### 2. Secondary / Concurrent Clinical Diagnosis
+* **Secondary Diagnosis**: **Night sweats**
+* **Secondary ICD-10 Code**: **`R61`** (Generalized hyperhidrosis / Night sweats)
+
+---
+
+### Diagnostic Impression & Clinical Differential
+
+The constellation of unexplained weight loss and drenching night sweats represents **B symptoms / constitutional symptoms**, which warrant immediate clinical investigation for:
+
+1. **Lymphoma / Hematologic Malignancy** 
+   * *Hodgkin lymphoma, unspecified*: **`C81.90`**
+   * *Non-Hodgkin lymphoma, unspecified*: **`C85.90`**
+2. **Chronic Systemic Infection**
+   * *Respiratory tuberculosis*: **`A15.0`** / **`A16.9`**
+   * *Human immunodeficiency virus (HIV) disease*: **`B20`**
+3. **Endocrine / Metabolic Disorder**
+   * *Thyrotoxicosis / Hyperthyroidism, unspecified*: **`E05.90`**
+
+*Note: If an underlying etiology is subsequently confirmed via laboratory, imaging, or histopathological evaluation, that definitive diagnosis would supersede `R63.4` as the primary ICD-10 code.*
